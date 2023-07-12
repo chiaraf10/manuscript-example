@@ -1,7 +1,7 @@
 ---
-title: La Palma Earthquakes
+title: Manuscript example for a paper
 author:
-  - name: Steve Purves
+  - name: Chiara Fichera
     orcid: 0000-0002-0760-5497
     corresponding: true
     email: steve@curvenote.com
@@ -11,27 +11,25 @@ author:
       - Software
       - Visualization
     affiliations:
-      - Curvenote
-  - name: Rowan Cockett
+      - Chalmers University of Techology
+  - name: John Doe
     orcid: 0000-0002-7859-8394
     corresponding: false
     roles: []
     affiliations:
-      - Curvenote
+      - Chalmers University of Techology
 keywords:
-  - La Palma
-  - Earthquakes
+  - Chalmers
+  - Vehicle Safety
 abstract: |
-  In September 2021, a significant jump in seismic activity on the island of La Palma (Canary Islands, Spain) signaled the start of a volcanic crisis that still continues at the time of writing. Earthquake data is continually collected and published by the Instituto Geográphico Nacional (IGN). ...
-plain-language-summary: |
-  Earthquake data for the island of La Palma from the September 2021 eruption is found ...
+  This is an attempt to create a project to store text and code for a paper. Maybe this is cool, we don´t know yet. Bla bla bla...
 key-points:
-  - A web scraping script was developed to pull data from the Instituto Geogràphico Nacional into a machine-readable form for analysis
-  - Earthquake events on La Palma are consistent with the presence of both mantle and crustal reservoirs.
+  - I don´t know where this is embedded in the text.
+  - Where? HERE.
 date: last-modified
 bibliography: references.bib
 citation:
-  container-title: Earth and Space Science
+  container-title: Cool science in the making.
 number-sections: true
 jupyter: python3
 ---
