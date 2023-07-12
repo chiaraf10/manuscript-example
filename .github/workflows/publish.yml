@@ -19,7 +19,10 @@ jobs:
         with:
           version: pre-release
           tinytex: true
-
+      
+      - name: Install dependencies
+        run: 
+          python3 -m pip install jupyter
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
