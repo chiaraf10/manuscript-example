@@ -70,10 +70,10 @@ administration</role>
 <corresp id="cor-1">steve@curvenote.com</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2023-07-10">
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2023-07-12">
 <year>2023</year>
 <month>7</month>
-<day>10</day>
+<day>12</day>
 </pub-date>
 
 
@@ -216,9 +216,6 @@ Nacional (IGN). …</p>
 </sec>
 <sec id="conclusion">
   <title>3 Conclusion</title>
-</sec>
-<sec id="references">
-  <title>References</title>
 </sec>
 </body>
 
@@ -456,22 +453,23 @@ plt.show()</code>
 <sec id="references-nb-article">
   <title>References</title>
   </sec>
+  <ref-list>
+    <ref id="ref-marrero2019-nb-article">
+      <mixed-citation>Marrero, José, Alicia García, Manuel Berrocoso,
+      Ángeles Llinares, Antonio Rodríguez-Losada, and R. Ortiz. 2019.
+      “Strategies for the Development of Volcanic Hazard Maps in
+      Monogenetic Volcanic Fields: The Example of La Palma (Canary
+      Islands).” <italic>Journal of Applied Volcanology</italic> 8
+      (July).
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s13617-019-0085-5">https://doi.org/10.1186/s13617-019-0085-5</ext-link>.</mixed-citation>
+    </ref>
+  </ref-list>
 </sec>
 </body>
 
 
 
 <back>
-<ref-list>
-  <ref id="ref-marrero2019-nb-article">
-    <mixed-citation>Marrero, José, Alicia García, Manuel Berrocoso,
-    Ángeles Llinares, Antonio Rodríguez-Losada, and R. Ortiz. 2019.
-    “Strategies for the Development of Volcanic Hazard Maps in
-    Monogenetic Volcanic Fields: The Example of La Palma (Canary
-    Islands).” <italic>Journal of Applied Volcanology</italic> 8 (July).
-    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s13617-019-0085-5">https://doi.org/10.1186/s13617-019-0085-5</ext-link>.</mixed-citation>
-  </ref>
-</ref-list>
 </back>
 
 
